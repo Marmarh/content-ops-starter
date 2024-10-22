@@ -13,7 +13,7 @@ sections:
     subtitle: ''
     items: []
     actions:
-      - label: Get started
+      - label: تواصل معنا على واتساب
         altText: ''
         url: /
         showIcon: false
