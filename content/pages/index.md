@@ -11,31 +11,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: Faux Fur Throw
-        subtitle: $ 88 – $ 176
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
+    items: []
     actions:
       - label: Get started
         altText: ''
