@@ -16,7 +16,7 @@ sections:
       - label: تواصل معنا على واتساب
         altText: ''
         url: /
-        showIcon: false
+        showIcon: true
         icon: linkedin
         iconPosition: right
         style: primary
