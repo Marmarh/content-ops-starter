@@ -15,7 +15,7 @@ sections:
     actions:
       - label: تواصل معنا على واتساب
         altText: ''
-        url: /
+        url: 'https://api.whatsapp.com/send?phone=212646927189'
         showIcon: true
         icon: send
         iconPosition: right
