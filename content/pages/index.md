@@ -17,7 +17,7 @@ sections:
         altText: ''
         url: /
         showIcon: true
-        icon: linkedin
+        icon: send
         iconPosition: right
         style: primary
         elementId: ''
